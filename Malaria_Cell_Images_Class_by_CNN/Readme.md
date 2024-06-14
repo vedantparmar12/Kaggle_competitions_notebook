@@ -25,7 +25,7 @@ The performance of the trained model is evaluated on a validation set. The key m
 
 Results
 
-The project achieved a validation accuracy of [insert your accuracy here]% using the LeNet-5 architecture. This indicates that the model performs well in distinguishing between parasitized and uninfected Malaria cells.
+The project achieved a validation accuracy of 95% using the LeNet-5 architecture. This indicates that the model performs well in distinguishing between parasitized and uninfected Malaria cells.
 
 How to Use
 
